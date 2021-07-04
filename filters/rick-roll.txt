@@ -1,0 +1,10 @@
+! Title: Rickroll filter
+! Expires: 4 Days
+! Description: Filter any known unexpected rickroll excluding official youtube (kek) (more list coming soon)
+
+! https://www.secretrickroll.com/
+*.thisworldthesedays.com
+thisworldthesedays.com
+
+! https://rr.noordstar.me/create
+rr.noordstar.me
